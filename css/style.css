@@ -15,8 +15,8 @@
 }
 
 .avatar {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     background-image: url(../images/avater.png);
     background-position: center;
     background-size: cover;
